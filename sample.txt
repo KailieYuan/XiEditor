@@ -1,0 +1,10 @@
+// sample.txt
+#include <string>
+using namespace std;
+
+// this program doesn't do much yet
+void main (int argc, char * argv[]){
+
+    Editor editor(argv[1]);
+
+}
